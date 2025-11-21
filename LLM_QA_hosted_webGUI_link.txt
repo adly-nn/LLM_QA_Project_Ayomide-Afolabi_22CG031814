@@ -1,4 +1,4 @@
 Name: Ayomide Afolabi Adlynn
 Matric number: 22CG031814
-Live URL of hosted application
-GitHub repository link
+Live URL of hosted application: https://llmappprojectayomide-afolabi22cg031814-auiapjhnyeydxuaijeb8vs.streamlit.app/#ask-any-question-and-get-intelligent-answers-powered-by-ai
+GitHub repository link: https://github.com/adly-nn/LLM_QA_Project_Ayomide-Afolabi_22CG031814
